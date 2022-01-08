@@ -1,0 +1,26 @@
+[
+  {
+    "Model": "Durango",
+    "Vendor": "Dodge",
+    "Year": 2013,
+    "ImagePath": "https://masinlar.az/uploads/news/156457020521439681005d41725dec0d8.png"
+  },
+  {
+    "Model": "Dart",
+    "Vendor": "Dodge",
+    "Year": 2017,
+    "ImagePath": "https://supdec.com/images/7467_1_dodge_dart_20132020_hood_center_accent_stripes.jpg"
+  },
+  {
+    "Model": "Challenger",
+    "Vendor": "Dodge",
+    "Year": 2020,
+    "ImagePath": "https://www.wallacecjd.com/blogs/2965/wp-content/uploads/2020/02/2020-Dodge-Challenger-for-sale-near-Port-Saint-Lucie-Fl.jpg"
+  },
+  {
+    "Model": "Charger",
+    "Vendor": "Dodge",
+    "Year": 2021,
+    "ImagePath": "https://www.motortrend.com/uploads/sites/5/2020/07/2021-Dodge-Charger-SRT-Redeye-31.jpg?fit=around%7C875:492.1875"
+  }
+]

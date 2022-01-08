@@ -1,0 +1,20 @@
+[
+  {
+    "Model": "Panamera 4S",
+    "Vendor": "Porsche",
+    "Year": 2018,
+    "ImagePath": "https://www.newcartestdrive.com/wp-content/uploads/2017/12/2018-panamera.jpg"
+  },
+  {
+    "Model": "Cayenne GTS",
+    "Vendor": "Porsche",
+    "Year": 2017,
+    "ImagePath": "https://www.auto.az/uploads/fckimages/201411/1415254618.jpg"
+  },
+  {
+    "Model": "Taycan",
+    "Vendor": "Porsche",
+    "Year": 2021,
+    "ImagePath": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Screen-Shot-2020-06-04-at-2.47.47-PM.jpg?quality=82&strip=all&is-pending-load=1"
+  }
+]

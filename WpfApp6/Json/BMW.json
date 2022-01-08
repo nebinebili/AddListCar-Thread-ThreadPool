@@ -1,0 +1,20 @@
+[
+  {
+    "Model": "X7",
+    "Vendor": "BMW",
+    "Year": 2021,
+    "ImagePath": "https://www.allcarz.ru/wp-content/uploads/2016/03/foto-bmw-x7_01.jpg"
+  },
+  {
+    "Model": "430",
+    "Vendor": "BMW",
+    "Year": 2017,
+    "ImagePath": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/bmw-4-series-gran-coupe-2017-grey-1.jpg"
+  },
+  {
+    "Model": "530",
+    "Vendor": "BMW",
+    "Year": 2019,
+    "ImagePath": "https://i.gaw.to/vehicles/photos/40/23/402361-2021-bmw-5-series.jpg?640x400"
+  }
+]

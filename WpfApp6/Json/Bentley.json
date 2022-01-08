@@ -1,0 +1,20 @@
+[
+  {
+    "Model": "Bentayga", 
+    "Vendor": "Bentley",
+    "Year": 2016,
+    "ImagePath": "https://turbo.azstatic.com/uploads/f660x496/2019%2F12%2F14%2F13%2F35%2F22%2F17c81a70-1eea-4c00-a8e1-43410935637c%2F1820_faM6CdMQFn4ziAkRWGmg-A.jpg"
+  },
+  {
+    "Model": "Flying Spur",
+    "Vendor": "Bentley",
+    "Year": 2021,
+    "ImagePath": "https://www.bentleygoldcoast.com/galleria_images/9459/9459_p4_l.jpg"
+  },
+  {
+    "Model": "Continental",
+    "Vendor": "Bentley",
+    "Year": 2020,
+    "ImagePath": "https://www.a777aa77.ru/bentley/2014-bentley-continental-gt-v8-s.jpg"
+  }
+]
